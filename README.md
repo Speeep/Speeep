@@ -4,4 +4,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,bash,arduino,gcp,aws,docker,git,ros,opencv,vim,vscode)](https://skillicons.dev)
 
-[![Watch the video](https://img.youtube.com/vi/H0I7_9V6E8c&t=97s/maxresdefault.jpg)](https://www.youtube.com/watch?v=H0I7_9V6E8c&t=97s)
+[![Watch the video](https://img.youtube.com/vi/H0I7_9V6E8c/maxresdefault.jpg)](https://www.youtube.com/watch?v=H0I7_9V6E8c)
