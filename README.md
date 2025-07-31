@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Giovanni!
+## Hi there, I'm Giovanni
 
 ### Full Stack Robotics Engineer
 
